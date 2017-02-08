@@ -13,9 +13,8 @@ h1{
 }
 
 #imagen2{
-  position: absolute;
-  margin-top: 90%;
-  margin-left: 50%;
+
+  margin-right: 100%;
 }
 
 #imagen3{
@@ -34,10 +33,10 @@ h1{
 }
 
 #datos_personales{
-  border: 1px dotted black;
+  border: 5px solid black;
   text-align: center;
-  width: 30%;
-  height: 30%;
+  width: 40%;
+  height: 40%;
 
   margin-top: 20px;
   margin-left: 35%;
@@ -56,6 +55,7 @@ h1{
   font-family: 'Rye';
   font-size: 25px;
   text-decoration: none;
+  margin-top: -90px;
 }
 
 #titulos{
