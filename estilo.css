@@ -1,0 +1,30 @@
+body{
+  background-color: #01DFD7;
+
+}
+
+h1{
+  font-family: 'Sofia';
+  margin-top: 40px;
+  margin-right: 300px;
+  font-size: 50px;
+  float: right;
+
+}
+
+#cabecera{
+  background-color: purple;
+  float: center;
+
+
+}
+
+#datos_personales{
+}
+
+#datos_personales > p {
+  margin-left: 750px;
+  margin-top: 70px;
+  font-family: 'Rye';
+  font-size: 25px;
+}
