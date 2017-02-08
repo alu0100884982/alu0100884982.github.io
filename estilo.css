@@ -17,12 +17,32 @@ h1{
   margin-top: -150px;
 }
 
+#imagen3{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  margin-left: 50%;
+
+}
+
 #cabecera{
   background-color: purple;
   float: center;
 
 
 }
+
+#datos_personales{
+  border: 10px dotted black;
+  text-align: center;
+  width: 30%;
+  height: 30%;
+
+  margin-top: 20px;
+  margin-left: 35%;
+}
+
+
 
  #practicas{
    font-size: 40px;
@@ -31,8 +51,7 @@ h1{
  }
 
 #datos_personales > p {
-  margin-left: 750px;
-  margin-top: 70px;
+
   font-family: 'Rye';
   font-size: 25px;
   text-decoration: none;
