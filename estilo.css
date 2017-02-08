@@ -24,7 +24,11 @@ h1{
 
 }
 
-
+ #practicas{
+   font-size: 40px;
+   margin-top: 10px;
+   font-family: 'Amatica SC';
+ }
 
 #datos_personales > p {
   margin-left: 750px;
