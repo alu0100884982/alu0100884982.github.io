@@ -7,7 +7,7 @@ h1{
   font-family: 'Sofia';
   margin-top: 40px;
   margin-right: 300px;
-  font-size: 45px;
+  font-size: 40px;
   float: right;
 
 }
@@ -33,7 +33,7 @@ h1{
 }
 
 #datos_personales{
-  border: 10px dotted black;
+  border: 1px dotted black;
   text-align: center;
   width: 30%;
   height: 30%;
