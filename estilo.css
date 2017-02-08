@@ -7,14 +7,15 @@ h1{
   font-family: 'Sofia';
   margin-top: 40px;
   margin-right: 300px;
-  font-size: 40px;
+  font-size: 45px;
   float: right;
 
 }
 
 #imagen2{
-  float:right;
-  margin-top: -150px;
+  position: absolute;
+  margin-top: 90%;
+  margin-left: 50%;
 }
 
 #imagen3{
