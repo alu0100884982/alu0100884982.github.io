@@ -39,11 +39,11 @@ h1{
 #datos_personales{
   border: 5px solid black;
   text-align: center;
-  width: 45%;
-  height: 45%;
-
+  width: auto;
+  height: auto;
+  margin-right: 25%;
   margin-top: 20px;
-  margin-left: 35%;
+  margin-left: 25%;
 }
 
 
