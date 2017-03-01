@@ -1,24 +1,20 @@
-body{
+#body{
   background-color: #01DFD7;
 
 }
 
-h1{
+ #cabecera{
   font-family: 'Sofia';
-  margin-top: 35px;
-  margin-right: 300px;
-  font-size: 45px;
-  float: right;
-
+  font-size: 50px;
+  color: black;
 }
-#imagen{
-  width: 300px;
-  height: 150px;
+
+#imagen {
+  margin-left: -3.5%;
 }
 
 #imagen2{
-
-  margin-right: 100%;
+  margin-left: -15px;
 }
 
 #imagen3{
@@ -29,24 +25,24 @@ h1{
 
 }
 
-#cabecera{
-  background-color: purple;
-  float: center;
 
-
-}
 
 #datos_personales{
   border: 5px solid black;
   text-align: center;
-  width: auto;
-  height: auto;
   margin-right: 25%;
   margin-top: 20px;
-  margin-left: 25%;
+  margin-left: 23%;
+  font-family: 'Rye';
 }
 
+#datos{
+  font-size: 25px;
+}
 
+#primerafila{
+     background-color: purple;
+}
 
  #practicas{
    font-size: 40px;
@@ -54,32 +50,23 @@ h1{
    font-family: 'Amatica SC';
  }
 
-#datos_personales > p {
-
-  font-family: 'Rye';
-  font-size: 22px;
-  text-decoration: none;
-  margin-left: 60px;
-  margin-top: -90px;
-}
 
 #titulos{
+  margin-top: 20px;
   list-style-type: none;
-  margin-top: 60px;
 }
 
 .titulo{
+  display: inline;
+  width: 30%;
   background-color: #AC58FA;
   font-size: 45px;
   text-align: justify;
-  width: 20%;
   border-radius: 10px;
   font-family: 'Boogaloo';
-}
-
-#titulo2{
   margin-top: 50px;
 }
+
 
 #parrafo{
   font-size: 20px;
